@@ -1,6 +1,6 @@
 # An MLOps radar
 
-An ML project can be in two phases, either (A) exploration or (B) productionisation & iteration.
+This is an MLOps Radar. An ML project can be in two phases, either (A) exploration or (B) productionisation & iteration.
 
 ## Exploration phase
 
@@ -73,3 +73,4 @@ An ML project can be in two phases, either (A) exploration or (B) productionisat
 3. [SageMaker clarify](https://aws.amazon.com/sagemaker/clarify/)
 4. [AzureML interpret](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability-aml)
 5. [AzureML studio](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-track-monitor-analyze-runs)
+
