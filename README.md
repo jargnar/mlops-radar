@@ -66,8 +66,9 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 3. [TorchServe](https://pytorch.org/serve/)
 4. [SageMaker](https://aws.amazon.com/sagemaker/)
 5. [AzureML](https://docs.microsoft.com/en-us/azure/machine-learning/)
-6. [BentoML](https://www.bentoml.com/)
-7. [Anyscale](https://www.anyscale.com/)
+6. [Seldon Core](https://github.com/SeldonIO/seldon-core)
+7. [BentoML](https://www.bentoml.com/)
+8. [Anyscale](https://www.anyscale.com/)
 
 #### Observability
 
@@ -76,4 +77,6 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 3. [SageMaker clarify](https://aws.amazon.com/sagemaker/clarify/)
 4. [AzureML interpret](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability-aml)
 5. [AzureML studio](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-track-monitor-analyze-runs)
+6. [Alibi Detect](https://docs.seldon.io/projects/alibi-detect/en/stable/)
+7. [Alibi Explain](https://docs.seldon.io/projects/alibi/en/latest/)
 
