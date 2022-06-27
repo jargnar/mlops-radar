@@ -51,6 +51,7 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 2. [AzureML](https://docs.microsoft.com/en-us/azure/machine-learning/)
 3. [Vertex AI](https://cloud.google.com/vertex-ai/docs/training/custom-training)
 4. [Vertex AI Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview)
+5. [Anyscale](https://www.anyscale.com/)
 
 #### Model Registry
 
@@ -66,6 +67,8 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 4. [SageMaker](https://aws.amazon.com/sagemaker/)
 5. [AzureML](https://docs.microsoft.com/en-us/azure/machine-learning/)
 6. [Seldon Core](https://github.com/SeldonIO/seldon-core)
+7. [BentoML](https://www.bentoml.com/)
+8. [Anyscale](https://www.anyscale.com/)
 
 #### Observability
 
