@@ -38,6 +38,7 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 5. [Valohai](https://valohai.com/)
 6. [Airflow](https://airflow.apache.org/)
 7. [TFX](https://www.tensorflow.org/tfx)
+8. [Bodywork](https://bodywork.readthedocs.io/en/latest/)
 
 #### Feature Stores
 
