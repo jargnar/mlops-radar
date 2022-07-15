@@ -26,6 +26,7 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 5. [Neptune.ai](https://neptune.ai/)
 6. [DVC](https://dvc.org/doc/use-cases/versioning-data-and-model-files)
 7. [SageMaker experiments](https://aws.amazon.com/blogs/aws/amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings/)
+8. [Aim](https://aimstack.io/)
 
 ## Productionisation & Iteration phase
 
