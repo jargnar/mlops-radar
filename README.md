@@ -47,6 +47,7 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 1. [SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/)
 2. [Tecton](https://www.tecton.ai/)
 3. [Databricks Feature Store](https://docs.databricks.com/applications/machine-learning/feature-store/index.html)
+4. [Feast](https://feast.dev/)
 
 #### Train/Tune
 
