@@ -16,6 +16,9 @@ This is an MLOps Radar. An ML project can be in two phases, either (A) explorati
 8. [Kubeflow Notebooks](https://www.kubeflow.org/docs/components/notebooks/quickstart-guide/)
 9. [Vertex AI Workbench](https://cloud.google.com/vertex-ai/docs/workbench)
 
+#### Exploration tools
+
+1. [Einblick](https://www.einblick.ai/)
 
 #### Experimentation Tracking
 
